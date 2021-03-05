@@ -1,0 +1,9 @@
+insert into Customer VALUES (99, 'Himasha');
+insert into Customer VALUES (100, 'Weerasinghe');
+insert into Customer VALUES (102, 'Nusal');
+insert into Customer VALUES (103, 'Pusale');
+insert into Customer VALUES (105, 'Pukale');
+insert into Customer VALUES (201, 'Nuwaraie');
+insert into Customer VALUES (203, 'Nuwaraie');
+insert into Customer VALUES (220, 'Nuwaraie');
+insert into Customer VALUES (210, 'Nuwaraie');
